@@ -14,7 +14,7 @@
 
 > As of 2025 I'm primarily focused on Full-Stack Rails taking advantage of all the great new features of Rails 8
 
-- LinkBytes (Still in Closed Beta) **A minimalist Link Sharing and Questionnaires site**
+- Purelinks.xyz (Still in Closed Beta) **A minimalist Link Sharing and Questionnaires site**
 
 ### 🏗️ Things I'm Watching 🔭
 
