@@ -15,6 +15,7 @@
 > As of 2025 I'm primarily focused on Full-Stack Rails taking advantage of all the great new features of Rails 8
 
 - [purelinks.xyz](https://purelinks.xyz) **A minimalist Link Sharing and Questionnaires site**
+- **Unamed Project** I've been thinking about a way to use AI Agents for product reviews... more info coming soon
 
 ### 🏗️ Things I'm Watching 🔭
 
