@@ -9,18 +9,18 @@
   - Backend PHP E-commerce (Magento, Yii, Lithium)
   - Mobile Development (iOS, Swift)
   - Full-Stack Web Development (Ruby on Rails, React)
-  - Cloud Native Developer (AWS, TypeScript, Go)
+  - Cloud Native Developer (AWS, TypeScript)
     - Passed the AWS Certified Cloud Practitioner Exam (2025)
     - Currently studying for the AWS Certified Solutions Architect Associate (In Progress)
 
 ### 💻 Currently Working On 🛠️
 
-> As of late 2025 I'm primarily focused on Cloud Native Development
+> Heading into early 2026 I'm primarily focused on Cloud Native Development
 
 - [purelinks.xyz](https://purelinks.xyz) **A minimalist Link Sharing and AI Generated Questionnaires site**
   
-- **Unamed Project** I've been thinking about a way to use AI Agents for "visual fleet intelligence"
-  - Intelligent vision at the edge
+- **Unamed Project** I've been thinking about a way to use AI Agents for "visual intelligence"
+  - Intelligent vision aggregation with collaborative knowledge discovery
 
 ### 🏗️ Things I'm Watching 🔭
 
