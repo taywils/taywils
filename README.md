@@ -19,8 +19,7 @@
 
 - [purelinks.xyz](https://purelinks.xyz) **A minimalist Link Sharing and AI Generated Questionnaires site**
   
-- **Unamed Project** I've been thinking about a way to use AI Agents for "visual intelligence"
-  - Intelligent vision aggregation with collaborative knowledge discovery
+- [Quail](https://github.com/taywils/quail) **Rails-first GraphQL with an Alba-inspired declarative DSL**
 
 ### 🏗️ Things I'm Watching 🔭
 
