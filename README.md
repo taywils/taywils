@@ -17,7 +17,7 @@
 
 > Heading into early 2026 I'm primarily focused on Cloud Native Development
 
-- [purelinks.xyz](https://app.purelinks.xyz/) **A minimalist Link Sharing and AI Generated Questionnaires site**
+- [purelinks.xyz](https://purelinks.xyz/) **A minimalist Link Sharing and AI Generated Questionnaires site**
   
 - [Quail](https://github.com/taywils/quail) **Rails-first GraphQL with an Alba-inspired declarative DSL**
 
