@@ -15,15 +15,17 @@
 
 ### 💻 Currently Working On 🛠️
 
-> Heading into early 2026 I'm primarily focused on Cloud Native Development
+> In 2026 I'm primarily focused on building tools to support autonomous agent control-planes with self-learning capabilities
 
 - [purelinks.xyz](https://purelinks.xyz/) **A minimalist Link Sharing and AI Generated Questionnaires site**
   
 - [Quail](https://github.com/taywils/quail) **Rails-first GraphQL with an Alba-inspired declarative DSL**
 
+- DropClaw **Spin up an autonomous coding Agent control-plane on commodity VPS providers**
+
 ### 🏗️ Things I'm Watching 🔭
 
-- LLMs, Generative AI and all things related to immersive AI Agents (purely virtual influencers)
+- LLMs, Generative AI and all things related to autonomous AI Agents
 - Crypto, Bitcoin, and the potential for Digital Currencies as an alternative to traditional investments
 - Stocks, Options and Financial Markets/Fintech
 - Distributed systems architecture
