@@ -29,4 +29,3 @@
 - Crypto, Bitcoin, and the potential for Digital Currencies as an alternative to traditional investments
 - Stocks, Options and Financial Markets/Fintech
 - Distributed systems architecture
-- Cloud Native Development and Serverless Applications
